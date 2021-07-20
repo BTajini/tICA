@@ -1,17 +1,20 @@
 # tICA
 
-### Computing Temporal ICA from HCP resting state fMRI data using Functional Modes DiFuMo atlas.
+#### Computing Temporal ICA from HCP resting state fMRI data using Functional Modes DiFuMo atlas.
 
 This repository includes the interpretation of the masking block of HCP resting state data in our recent paper:
 
 - Independent Component (IC) 1 (Static view) <br>
+
 ![IC1s](tICA_filesv3/imagesv3/Mix_mat_ic_1.jpg) <br>
 **Figure 1** - IC 1 (Static view)
 
 - Independent Component (IC) 1 (Interactive view) <br>
+
 ![IC1s](figs/interactive_view.png) <br>
 **Figure 2** - IC 1 (Interactive view) - <a href="https://btajini.github.io/tICA/tICA_filesv3/imagesv3/Mix_mat_ic_1.html" >Link to the Interactive view</a>
-
+<br>
+## Website
 For more informations, please visit the websites below:
 
 - Full version with post-processing (788 subjects) :
