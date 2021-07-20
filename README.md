@@ -4,6 +4,9 @@
 
 This repository includes the interpretation of the masking block of HCP resting state data in our recent paper:
 
+- Independent Component (IC) 1 (static view)
+![IC1]("./tICA_filesv3/imagesv3/Mix_mat_ic_1.jpg")
+
 For more informations, please visit the websites below:
 
 - Full version with post-processing (788 subjects) :
