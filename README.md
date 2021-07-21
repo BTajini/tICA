@@ -11,7 +11,7 @@ This repository includes the interpretation of the masking block of HCP resting 
 
 - Independent Component (IC) 1 (Interactive view) <br>
 
-![IC1s](figs/interactive_view.png) <br>
+![IC1s](figs/viewer_tica.gif) <br>
 **Figure 2** - IC 1 (Interactive view) - <a href="https://btajini.github.io/tICA/tICA_filesv3/imagesv3/Mix_mat_ic_1.html" >Link to the Interactive view</a>
 <br>
 ## Website
@@ -27,8 +27,8 @@ For more informations, please visit the websites below:
   
   
 ## Link
-arXiv version:  [[PDF](https://arxiv.org/abs/2107.06104v2)] <br>
-HAL version: [[PDF](https://hal.archives-ouvertes.fr/hal-03284313v1)] <br>
+Paper in arXiv version:  [[PDF](https://arxiv.org/abs/2107.06104v2)] <br>
+Paper in HAL version: [[PDF](https://hal.archives-ouvertes.fr/hal-03284313v1)] <br>
 ## Citation
 If you find this repository useful in your research, please cite:
 ```
