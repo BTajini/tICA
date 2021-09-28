@@ -1,6 +1,6 @@
-# tICA
+# Temporal ICA (tICA) HCP resting-state fMRI data
 
-#### Computing Temporal ICA from HCP resting state fMRI data using Functional Modes DiFuMo atlas.
+#### Computing tICA from HCP resting state fMRI data using Functional Modes DiFuMo atlas.
 
 This repository includes the interpretation of the masking block of HCP resting state data in our recent paper:
 
