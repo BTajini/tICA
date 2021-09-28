@@ -32,10 +32,15 @@ Paper in HAL version: [[PDF](https://hal.archives-ouvertes.fr/hal-03284313v1)] <
 ## Citation
 If you find this repository useful in your research, please cite:
 ```
-@article{tajini2021functional,
-  title={Functional Magnetic Resonance Imaging data augmentation through conditional ICA},
+@inproceedings{tajini2021functional,
+  address={Cham},
   author={Tajini, Badr and Richard, Hugo and Thirion, Bertrand},
-  journal={MICCAI},
+  booktitle={"Medical Image Computing and Computer Assisted Intervention -- MICCAI 2021"},
+  editor={de Bruijne, Marleen and Cattin, Philippe C. and Cotin, St{\'e}phane and Padoy, Nicolas and Speidel, Stefanie and Zheng, Yefeng and Essert, Caroline},
+  isbn={978-3-030-87196-3},
+  pages={491--500},
+  publisher={Springer International Publishing},
+  title={Functional Magnetic Resonance Imaging data augmentation through conditional ICA},
   year={2021}
 }
 ```
